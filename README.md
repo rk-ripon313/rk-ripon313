@@ -1,30 +1,114 @@
-<h1 align="center">Hi There👋, I'm RK Ripon</h1>
-<img src="./img/profile.jpg" width="100%"/>
-<h3 align="center">A passionate frontend developer.</h3>
-<img align="right" width="400" height="300" src="./img/web-dev.gif"/>
-- 🌱 I’m currently learning **Node Js.**
+<div align="center">
+  <img src="./img/rk-ripon-cover.jpg" alt="RK Ripon Banner" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" />
+</div>
 
-- 💬 Ask me about **React Js / Next Js.**
+# I'm Rifat Kabir Ripon
 
-- ⚡ Fun fact **I think I am funny.**
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1FF&width=435&lines=Frontend+Developer;React+%26+Next.js+Expert;Creative+UI+Designer;" alt="RK Ripon SVG" />
+</p>
 
-- 📫 How to reach me **rk.ripon.360rkr@gmail.com**
+## 💫 About Me
 
+I am a **Frontend Developer** who bridges the gap between design and code. My focus is on building high-performance, accessible, and visually captivating web applications. I believe that **clean code** is just as important as a **pixel-perfect design**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RK.Ripon.R) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rk.ripon) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rk-ripon360&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rk-ripon360&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rk-ripon360&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌐 **Portfolio:** [rk-ripon313.vercel.app](https://rk-ripon313.vercel.app/)
+- 🚀 **Currently working on:** Full-stack integration with Node.js & Express.
+- 🎓 **Exploring:** Server-side Rendering (SSR) & Web Performance Optimization.
+- 💬 **Ask me about:** React or Next.js.
+- ⚡ **Fun fact:** I think I am funny, but my code is serious!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rk-ripon360&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Tech Stack & Tools
 
+### Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
+### Backend & Database
+
+![Next.js API](https://img.shields.io/badge/Next.js%20API-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](<https://img.shields.io/badge/Node.js%20(Basic)-339933?style=flat-square&logo=node.js&logoColor=white>)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+
+### Core Concepts
+
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Auth](https://img.shields.io/badge/Auth-Authentication%20%26%20Authorization-blue?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-Role--Based%20Access-orange?style=flat-square)
+![Redux](https://img.shields.io/badge/State%20Management-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+#### 🏫 [Edu-Nest - Educational Platform](https://edu-nest-edu.vercel.app/)
+
+A full-stack **learning management system (LMS)** for students and educators with responsive UI and smooth navigation.
+
+**My Role:** Frontend developer, responsible for UI/UX, responsive design, and component architecture.  
+**Key Features:**
+
+- Multi-role authentication: Student & Educator with NextAuth (Google & Credentials login)
+- Secure payment integration with Stripe
+- Students can purchase and access PDF books & video courses with progress tracking
+- Centralized “My Learning” dashboard for all enrolled content
+- Built educator dashboard for CRUD and publishing of digital content
+- Drag-and-drop chapter and lesson reordering in Educator dashboard
+- Resume playback, completion indicators, and progress-based learning
+
+**Tech Stack:** Next.js, React, MongoDB, NextAuth, Tailwind CSS, Stripe, Resend (Email), Cloudinary (File Uploads)
+
+**Source Code:** [GitHub Repo](https://github.com/rk-ripon313/Edu-Nest)
+
+**Live Demo:** [Edu-Nest Live](https://edu-nest-edu.vercel.app/)
+
+**Learning / Challenges:**  
+Implemented **role-based access control (RBAC)** and optimized UI for responsive multi-page layouts.
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rk-ripon313&show_icons=true&theme=radical&rank_icon=github" alt="RK Ripon's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk-ripon313&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rk-ripon313&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rk-ripon313" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rk.ripon.360rkr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+ <a href="https://rk-ripon313.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+</p>
