@@ -1,6 +1,7 @@
 <div align="center">
   <img src="./img/rk-ripon-cover.jpg" alt="RK Ripon Banner" width="100%" />
 </div>
+
 # I'm Rifat Kabir Ripon
 
 <p align="left">
