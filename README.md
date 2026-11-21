@@ -82,7 +82,7 @@ A full-stack civic platform designed to connect people and coordinate community 
 
 **Source Code:** [GitHub Repository](https://github.com/rk-ripon313/bondhon)
 
-**Live Demo:** [BondhOn Live](https://bondhon.vercel.app/)
+**Live Demo:** [BondhOn Live](https://bondhon-on.vercel.app/)
 
 **Learning / Challenges:** Developed a location-aware application involving authentication, database relationships, server-side operations, and complex user interactions.
 
